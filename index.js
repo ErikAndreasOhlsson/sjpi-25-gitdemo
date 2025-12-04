@@ -3,7 +3,7 @@
 // changes in feature 2
 
 const featureVariable = "Hello";
-
+const newStuff = "Hot stuff";
 
 
 
