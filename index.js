@@ -2,7 +2,7 @@
 
 // changes in feature 2
 
-
+const featureVariable = "Hello";
 
 
 
