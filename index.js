@@ -15,3 +15,4 @@ const myName = "Andreas";
 const myCity = "City";
 
 // More code here
+const moreCode = [];
